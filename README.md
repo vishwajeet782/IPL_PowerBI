@@ -1,0 +1,2 @@
+# IPL_PowerBI
+The IPL Data Analysis and Visualization project aims to analyze and visualize data from the Indian Premier League (IPL), a popular professional Twenty20 cricket league in India. The project utilizes Power BI, a powerful business intelligence tool, to transform raw IPL data into insightful visualizations that provide valuable insights into team performance, player statistics, and trends across different seasons of the IPL.
